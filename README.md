@@ -12,3 +12,6 @@ Changes:
 
 
 V11: Updated homepage floating-card wording in English and Greek to clarify BlockWise as the local point of contact.
+
+
+V14 updates: moved Contact link from Services to BlockWise section in footer, and added a white background card behind the footer logo for visibility on the dark navy footer.
