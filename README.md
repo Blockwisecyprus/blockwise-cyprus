@@ -9,3 +9,6 @@ Changes:
 - Additional business-relevant subsection photography on Property Care and Building Administration
 - English and Greek versions use the same corrected layouts
 - Existing menu order and WhatsApp number retained
+
+
+V11: Updated homepage floating-card wording in English and Greek to clarify BlockWise as the local point of contact.
