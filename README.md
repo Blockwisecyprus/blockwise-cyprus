@@ -1,20 +1,14 @@
-# BlockWise Cyprus Website V7
+BlockWise Cyprus Website V17 - Legal & GDPR update
 
-This version uses the property photographs already displayed on the user's Wix BlockWise site via Wix's static image CDN.
+Upload every file in this folder to the root of the existing GitHub Pages repository.
 
-Changes:
-- Wix property photographs across Home, About, Our Approach, Property Care and Building Administration
-- Dedicated property-care interior image
-- Dedicated residential-building administration images
-- Additional business-relevant subsection photography on Property Care and Building Administration
-- English and Greek versions use the same corrected layouts
-- Existing menu order and WhatsApp number retained
+Includes:
+- Full bilingual Privacy Policy
+- Bilingual Terms of Use
+- Bilingual Cookie Policy
+- Revised contact-form privacy acknowledgement
+- Footer legal links on all pages
+- Small legal-ui.js helper for English/Greek legal text
+- Updated sitemap.xml and robots.txt
 
-
-V11: Updated homepage floating-card wording in English and Greek to clarify BlockWise as the local point of contact.
-
-
-V14 updates: moved Contact link from Services to BlockWise section in footer, and added a white background card behind the footer logo for visibility on the dark navy footer.
-
-
-V16 updates: added Facebook and Instagram links/icons to the top bar, footer BlockWise section, and Contact page. Facebook: https://www.facebook.com/profile.php?id=61593563971142 Instagram: https://www.instagram.com/blockwisecyprus2026/
+Current public controller identity used: Nakis Kassos trading as BlockWise Cyprus. Update this if a limited company becomes the legal operator.
