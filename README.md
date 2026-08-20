@@ -15,3 +15,6 @@ V11: Updated homepage floating-card wording in English and Greek to clarify Bloc
 
 
 V14 updates: moved Contact link from Services to BlockWise section in footer, and added a white background card behind the footer logo for visibility on the dark navy footer.
+
+
+V16 updates: added Facebook and Instagram links/icons to the top bar, footer BlockWise section, and Contact page. Facebook: https://www.facebook.com/profile.php?id=61593563971142 Instagram: https://www.instagram.com/blockwisecyprus2026/

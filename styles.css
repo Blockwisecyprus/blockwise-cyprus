@@ -73,3 +73,6 @@ a{color:inherit;text-decoration:none}img{max-width:100%;display:block}button,inp
 /* V15 footer logo visibility */
 .footer-logo{background:#fff!important;padding:8px 10px!important;border-radius:10px!important;box-shadow:none!important;display:block!important;width:205px!important;height:auto!important}
 @media(max-width:680px){.footer-logo{width:180px!important;padding:7px 9px!important}}
+
+/* V16 social links */
+.top-socials{display:inline-flex;align-items:center;gap:7px}.social-icon{width:27px;height:27px;border-radius:50%;display:inline-flex!important;align-items:center;justify-content:center;background:rgba(255,255,255,.10);color:#eef5f7;transition:.2s ease}.social-icon:hover{background:rgba(255,255,255,.20);color:#fff}.social-icon svg{width:15px;height:15px;fill:currentColor}.footer-social-link{display:flex!important;align-items:center;gap:8px}.footer-social-link svg{width:16px;height:16px;fill:currentColor;flex:0 0 16px}.contact-list .social-ico svg{width:17px;height:17px;fill:currentColor}.contact-list a:hover{color:#fff;opacity:.92}
