@@ -1,5 +1,11 @@
 const menuBtn = document.querySelector('.menu-btn');
 const nav = document.querySelector('.main-nav');
+const navOrder = ['index.html','about.html','approach.html','property-care.html','building-administration.html','contact.html'];
+if (nav) {
+  const byHref = new Map(Array.from(nav.querySelectorAll('a')).map(a => [a.getAttribute('href'), a]));
+  navOrder.forEach(href => { const link = byHref.get(href); if (link) nav.appendChild(link); });
+}
+
 if (menuBtn && nav) {
   const closeMenu = () => { nav.classList.remove('open'); menuBtn.setAttribute('aria-expanded','false'); };
   menuBtn.addEventListener('click', () => {
