@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520" role="img" aria-labelledby="title desc">
+<title id="title">Building administration illustration</title><desc id="desc">Apartment buildings with financial reporting and maintenance coordination symbols.</desc>
+<rect width="700" height="520" rx="28" fill="#edf3f6"/>
+<g transform="translate(80 82)">
+ <rect x="0" y="115" width="170" height="305" rx="10" fill="#ffffff"/>
+ <rect x="185" y="30" width="205" height="390" rx="10" fill="#fdfdfd"/>
+ <g fill="#9fc8cd">
+  <rect x="32" y="150" width="42" height="40" rx="4"/><rect x="95" y="150" width="42" height="40" rx="4"/>
+  <rect x="32" y="220" width="42" height="40" rx="4"/><rect x="95" y="220" width="42" height="40" rx="4"/>
+  <rect x="32" y="290" width="42" height="40" rx="4"/><rect x="95" y="290" width="42" height="40" rx="4"/>
+  <rect x="220" y="72" width="52" height="46" rx="4"/><rect x="302" y="72" width="52" height="46" rx="4"/>
+  <rect x="220" y="145" width="52" height="46" rx="4"/><rect x="302" y="145" width="52" height="46" rx="4"/>
+  <rect x="220" y="218" width="52" height="46" rx="4"/><rect x="302" y="218" width="52" height="46" rx="4"/>
+  <rect x="220" y="291" width="52" height="46" rx="4"/><rect x="302" y="291" width="52" height="46" rx="4"/>
+ </g>
+ <rect x="76" y="348" width="42" height="72" rx="5" fill="#2f8b7a"/>
+ <rect x="260" y="350" width="55" height="70" rx="5" fill="#16324a"/>
+</g>
+<g transform="translate(500 150)">
+ <rect x="0" y="0" width="130" height="170" rx="18" fill="#ffffff" stroke="#d7e4e2" stroke-width="3"/>
+ <path d="M32 122 L55 91 L76 102 L101 58" fill="none" stroke="#2f8b7a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="32" cy="122" r="7" fill="#16324a"/><circle cx="55" cy="91" r="7" fill="#16324a"/><circle cx="76" cy="102" r="7" fill="#16324a"/><circle cx="101" cy="58" r="7" fill="#16324a"/>
+</g>
+</svg>
