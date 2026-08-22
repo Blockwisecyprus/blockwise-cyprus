@@ -1,9 +1,7 @@
-HOME PAGE Yacht Care Greek translation fix
+CORRECT WEBSITE LOGO REPLACEMENT
 
-Upload ONLY these 2 files to the root of your GitHub Pages repository:
-1. index.html
-2. v27.js
+Upload logo.svg to the ROOT of your GitHub Pages website and overwrite the existing logo.svg.
+Do not rename it.
 
-Overwrite both existing files.
-The bug was in v27.js: the page used data-v27-i18n attributes but the script was reading v20I18n.
-The corrected index.html loads v27.js?v=35 to bypass browser cache.
+This uses the exact filename already referenced by the website, so the header and footer logo will change without replacing any HTML pages.
+After GitHub finishes deploying, refresh the website with Ctrl + F5.
