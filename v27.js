@@ -77,7 +77,7 @@
       'hero.title':'Property Care, Building Administration & Yacht Care',
       'hero.text':'Reliable local support for property owners, overseas owners, management committees and yacht owners in Limassol.',
       'hero.float.text':'For property, building and yacht care in Limassol.',
-      'services.title':'One trusted point of contact',
+      'services.title':'Three services, one trusted point of contact',
       'services.intro':'Whether you need someone to care for your property, administer your residential building, or support your yacht while you are away, BlockWise provides one trusted local point of contact.',
       'cta.title':'Need reliable local support for your property, building or yacht?',
       'footer.blurb':'Property Care, Building Administration & Yacht Care in Limassol, with personal service, clear communication and responsible coordination.',
@@ -91,7 +91,7 @@
       'hero.title':'Φροντίδα Ακινήτων, Διαχείριση Κτιρίων & Φροντίδα Σκαφών',
       'hero.text':'Αξιόπιστη τοπική υποστήριξη για ιδιοκτήτες ακινήτων, ιδιοκτήτες που ζουν στο εξωτερικό, διαχειριστικές επιτροπές και ιδιοκτήτες σκαφών στη Λεμεσό.',
       'hero.float.text':'Για φροντίδα ακινήτων, διαχείριση κτιρίων και φροντίδα σκαφών στη Λεμεσό.',
-      'services.title':'Ένα αξιόπιστο σημείο επαφής',
+      'services.title':'Τρεις υπηρεσίες, ένα αξιόπιστο σημείο επαφής',
       'services.intro':'Είτε χρειάζεστε κάποιον να φροντίζει το ακίνητό σας, να διαχειρίζεται την πολυκατοικία σας ή να υποστηρίζει το σκάφος σας όταν απουσιάζετε, το BlockWise αποτελεί ένα αξιόπιστο τοπικό σημείο επαφής.',
       'cta.title':'Χρειάζεστε αξιόπιστη τοπική υποστήριξη για το ακίνητο, το κτίριο ή το σκάφος σας;',
       'footer.blurb':'Φροντίδα Ακινήτων, Διαχείριση Κτιρίων & Φροντίδα Σκαφών στη Λεμεσό, με προσωπική εξυπηρέτηση, σαφή επικοινωνία και υπεύθυνο συντονισμό.',
@@ -106,7 +106,7 @@
   function lang(){ return localStorage.getItem('blockwiseLang')==='el' ? 'el' : 'en'; }
   function apply(){
     const L=lang();
-    document.querySelectorAll('[data-v27-i18n]').forEach(el=>{const k=el.dataset.v20I18n;if(t[L][k]) el.textContent=t[L][k];});
+    document.querySelectorAll('[data-v27-i18n]').forEach(el=>{const k=el.dataset.v27I18n;if(t[L][k]) el.textContent=t[L][k];});
     Object.entries(overrides[L]).forEach(([k,v])=>document.querySelectorAll(`[data-i18n="${k}"]`).forEach(el=>el.textContent=v));
   }
   document.querySelectorAll('[data-lang]').forEach(btn=>btn.addEventListener('click',()=>setTimeout(apply,0)));
