@@ -1,9 +1,9 @@
-BlockWise Cyprus Website V21
+BlockWise Cyprus Website V24
 
-Updates in this version:
-- Logo updated to include a clearer yacht symbol
-- Main menu order fixed to: Home, About, Our Approach, Property Care, Building Administration, Yacht Care, Contact
-- Cache-busting files added: v21.css and v21.js
+Menu updated exactly to:
+Home, About, Our Approach, Property Care, Building Admin, Yacht Care, Contact
 
-Upload all files in this folder to your repository root and overwrite existing files.
-After GitHub Pages publishes, do a hard refresh in the browser.
+This version also preserves the latest home-page marina image.
+
+Upload ALL files in this folder to the root of your GitHub Pages repository and overwrite files with the same names.
+After GitHub Pages republishes, hard-refresh the browser or open the site in a private/incognito window.
