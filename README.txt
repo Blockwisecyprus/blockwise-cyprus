@@ -1,5 +1,9 @@
-Upload ONLY these two files to the root of your GitHub Pages repository:
-1. yacht-care.html
-2. yacht-small-luxury.jpg
+Upload these 2 files to your GitHub Pages repository root and overwrite the existing files:
+- index.html
+- v27.js
 
-Overwrite both existing files. The image keeps the exact old filename and the HTML adds ?v=29 to force the browser to refresh it.
+This changes the section title to:
+One trusted point of contact
+
+Greek version:
+Ένα αξιόπιστο σημείο επαφής
