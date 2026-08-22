@@ -1,7 +1,7 @@
-BlockWise Cyprus - Our Approach Photo Replacement V42
+BlockWise Cyprus - Building Administration Common Expense Photo V43
 
-Upload BOTH files to the ROOT of your GitHub Pages repository:
-1. approach.html
-2. approach-hero.png
+Upload both files to the ROOT of your GitHub Pages repository:
+1. building-administration.html
+2. building-common-expenses.png
 
-Overwrite approach.html. The new image is hosted locally and replaces the old external building photo.
+Overwrite building-administration.html. The Common Expense Administration image will use the attached building photo.
