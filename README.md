@@ -1,9 +1,7 @@
-BlockWise Cyprus Website V24
+BlockWise Cyprus Website V25
 
-Menu updated exactly to:
-Home, About, Our Approach, Property Care, Building Admin, Yacht Care, Contact
+Change made:
+- Replaced the Yacht Care hero image with the new marina photo provided by the user.
 
-This version also preserves the latest home-page marina image.
-
-Upload ALL files in this folder to the root of your GitHub Pages repository and overwrite files with the same names.
-After GitHub Pages republishes, hard-refresh the browser or open the site in a private/incognito window.
+Upload all files from this package to your GitHub Pages repository and overwrite existing files.
+If the old image still appears, hard refresh the browser or open the site in incognito mode.
