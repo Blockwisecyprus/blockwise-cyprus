@@ -18,8 +18,8 @@
 @media(max-width:980px){.services-grid.v19-three{grid-template-columns:1fr 1fr}}
 @media(max-width:680px){.services-grid.v19-three{grid-template-columns:1fr}.photo-credit{text-align:left}}
 
-/* V27, force desktop/mobile navigation order regardless of stale DOM ordering */
-.main-nav{display:flex!important;}
+/* V37 mobile navigation fix
+   Keep the required menu order, but do NOT force the menu visible on mobile. */
 .main-nav a[href="index.html"]{order:1!important;}
 .main-nav a[href="about.html"]{order:2!important;}
 .main-nav a[href="approach.html"]{order:3!important;}
@@ -27,3 +27,26 @@
 .main-nav a[href="building-administration.html"]{order:5!important;}
 .main-nav a[href="yacht-care.html"]{order:6!important;}
 .main-nav a[href="contact.html"]{order:7!important;}
+
+@media(min-width:981px){
+  .main-nav{display:flex!important;}
+}
+
+@media(max-width:980px){
+  .main-nav{
+    display:none!important;
+    z-index:1000;
+    max-height:calc(100vh - 72px);
+    overflow-y:auto;
+    overscroll-behavior:contain;
+  }
+  .main-nav.open{display:flex!important;}
+  .main-nav a{
+    width:100%;
+    padding:13px 4px!important;
+  }
+}
+
+@media(max-width:680px){
+  .main-nav{max-height:calc(100vh - 66px);}
+}
