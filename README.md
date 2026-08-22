@@ -1,17 +1,9 @@
-BlockWise Cyprus Website V17 - Legal & GDPR update
+# BlockWise Cyprus V19
 
-Upload every file in this folder to the root of the existing GitHub Pages repository.
+Adds Yacht Care & Owner Support as a third service.
 
-Includes:
-- Full bilingual Privacy Policy
-- Bilingual Terms of Use
-- Bilingual Cookie Policy
-- Revised contact-form privacy acknowledgement
-- Footer legal links on all pages
-- Small legal-ui.js helper for English/Greek legal text
-- Updated sitemap.xml and robots.txt
+Upload every file in this folder to the root of the existing GitHub Pages repository, overwriting files with the same names. Keep the existing core files already in the repository (such as styles.css, script.js, logo.svg and legal-ui.js).
 
-Current public controller identity used: BlockWise Cyprus. When the business name or legal entity is formally registered, update the legal pages with the exact registered name and registration details.
+New files include yacht-care.html, yacht-care-photo.jpg, limassol-marina-yachts.jpg, v19.css and v19.js.
 
-
-V18 update: removed the personal name from the public Privacy Policy and Terms of Use. Public identity now shows BlockWise Cyprus only.
+The yacht image by Nenad Stojković is used under CC BY 2.0 and is credited on the Yacht Care page. The Limassol Marina image is CC0.
