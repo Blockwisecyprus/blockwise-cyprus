@@ -1,9 +1,13 @@
-# BlockWise Cyprus V19
+BlockWise Cyprus Website V20
 
-Adds Yacht Care & Owner Support as a third service.
+Included updates:
+- Updated logo with yacht motif
+- Main menu order fixed: Home, About, Our Approach, Property Care, Building Administration, Yacht Care, Contact
+- Yacht Care hero image updated
+- Yacht Care detail image updated
+- Home page adjusted for three services
+- Updated wording for Yacht Care specialist support
+- New files: logo.svg, yacht-hero-marina.jpg, yacht-small-luxury.jpg, v20.css, v20.js
 
-Upload every file in this folder to the root of the existing GitHub Pages repository, overwriting files with the same names. Keep the existing core files already in the repository (such as styles.css, script.js, logo.svg and legal-ui.js).
-
-New files include yacht-care.html, yacht-care-photo.jpg, limassol-marina-yachts.jpg, v19.css and v19.js.
-
-The yacht image by Nenad Stojković is used under CC BY 2.0 and is credited on the Yacht Care page. The Limassol Marina image is CC0.
+Upload all files in this folder to your website repository root and overwrite existing files with the same names.
+Keep your existing core files if they already exist in the repo, especially styles.css, script.js, legal-ui.js, favicon.svg.
