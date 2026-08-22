@@ -1,5 +1,9 @@
-Upload ONLY these 2 files to the root of the GitHub Pages repository:
-1. yacht-care.html
-2. yacht-i18n-fix.js
+HOME PAGE Yacht Care Greek translation fix
 
-This fix is independent of the older translation script. Clicking GR now directly translates the full Yacht Care section, and EN switches it back to English.
+Upload ONLY these 2 files to the root of your GitHub Pages repository:
+1. index.html
+2. v27.js
+
+Overwrite both existing files.
+The bug was in v27.js: the page used data-v27-i18n attributes but the script was reading v20I18n.
+The corrected index.html loads v27.js?v=35 to bypass browser cache.
