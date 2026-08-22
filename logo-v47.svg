@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 78" role="img" aria-labelledby="title desc">
+<title id="title">BlockWise Cyprus</title>
+<desc id="desc">BlockWise Cyprus, building and yacht logo</desc>
+
+<g transform="translate(2 3)">
+  <!-- compact round emblem -->
+  <circle cx="36" cy="36" r="33" fill="#ffffff" stroke="#12324d" stroke-width="3"/>
+  <path d="M36 3 A33 33 0 0 1 69 36 A33 33 0 0 1 36 69"
+        fill="none" stroke="#2f8f7b" stroke-width="3"/>
+
+  <!-- buildings -->
+  <rect x="17" y="21" width="14" height="27" rx="2.2" fill="#12324d"/>
+  <rect x="34" y="12" width="16" height="36" rx="2.2" fill="#2f8f7b"/>
+  <g fill="#fff">
+    <rect x="21" y="26" width="4" height="4" rx=".7"/>
+    <rect x="21" y="35" width="4" height="4" rx=".7"/>
+    <rect x="38" y="19" width="4" height="4" rx=".7"/>
+    <rect x="38" y="28" width="4" height="4" rx=".7"/>
+    <rect x="38" y="37" width="4" height="4" rx=".7"/>
+  </g>
+
+  <!-- yacht -->
+  <path d="M13 47 C22 42 31 40 41 40 H55 L61 44 L55 50 H25 C20 50 16 49 13 47Z"
+        fill="#12324d"/>
+  <path d="M28 40 L36 34 H46 L51 40Z"
+        fill="#fff" stroke="#12324d" stroke-width="2"/>
+  <path d="M12 55 C22 51 31 51 40 54 C48 57 55 57 63 53"
+        fill="none" stroke="#2f8f7b" stroke-width="3" stroke-linecap="round"/>
+</g>
+
+<!-- wordmark -->
+<text x="84" y="39" font-family="Arial, Helvetica, sans-serif"
+      font-size="35" font-weight="700" fill="#12324d">BlockWise</text>
+<text x="87" y="62" font-family="Arial, Helvetica, sans-serif"
+      font-size="14" font-weight="700" letter-spacing="5.3" fill="#2f8f7b">CYPRUS</text>
+</svg>
