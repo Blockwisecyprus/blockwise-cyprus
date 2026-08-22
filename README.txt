@@ -1,7 +1,11 @@
-BlockWise Cyprus - Building Administration Common Expense Photo V43
+BlockWise Cyprus - Clear Website Logo V46
 
-Upload both files to the ROOT of your GitHub Pages repository:
-1. building-administration.html
-2. building-common-expenses.png
+Upload these files to the ROOT of the GitHub Pages repository and overwrite the existing files:
+1. logo.svg
+2. v27.css
 
-Overwrite building-administration.html. The Common Expense Administration image will use the attached building photo.
+The logo is now a cleaner horizontal version designed specifically for the website header.
+It keeps the building + yacht identity but uses thicker lines, fewer small details, larger lettering and less empty space.
+The CSS also makes the header/footer logo slightly larger for better readability.
+
+After GitHub deploys, refresh with Ctrl + F5.
