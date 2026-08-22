@@ -1,9 +1,2 @@
-Upload these 2 files to your GitHub Pages repository root and overwrite the existing files:
-- index.html
-- v27.js
-
-This changes the section title to:
-One trusted point of contact
-
-Greek version:
-Ένα αξιόπιστο σημείο επαφής
+Upload contact.html to the root of your GitHub Pages repository and overwrite the existing contact.html file.
+The Instagram link still opens the BlockWise Instagram page, but the visible text now reads only: Instagram
