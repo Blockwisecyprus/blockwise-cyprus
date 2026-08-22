@@ -1,16 +1,10 @@
-BlockWise Cyprus - Cache-Proof Logo Fix V47
+BlockWise Cyprus - Definitive Clear Logo V48
 
-WHY V46 DID NOT APPEAR
-The website continued to request the old filenames logo.svg and v27.css.
-Phones/browsers can keep those files cached even after GitHub is updated.
+Upload BOTH files to the ROOT of the GitHub Pages repository and overwrite the existing files:
+1. logo.svg
+2. logo-v47.svg
 
-V47 fixes this by using completely NEW filenames:
-- logo-v47.svg
-- v47.css
+Why both? Some of the recent website pages may still request logo.svg, while the V47 package requests logo-v47.svg.
+Replacing both means the new logo appears whichever version a page currently uses.
 
-Upload ALL files in this ZIP to the ROOT of the GitHub Pages repository and overwrite the HTML pages.
-
-Important:
-Do not rename logo-v47.svg or v47.css.
-
-The HTML pages have already been changed to request these new filenames, so the browser cannot reuse the old logo from cache.
+This V48 logo is intentionally taller and clearer than the previous horizontal logo, so it remains readable at the website's existing header size.

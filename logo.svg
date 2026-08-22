@@ -1,40 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 100" role="img" aria-labelledby="title desc">
 <title id="title">BlockWise Cyprus</title>
-<desc id="desc">BlockWise Cyprus logo with buildings and yacht</desc>
+<desc id="desc">BlockWise Cyprus logo with buildings, yacht and waves</desc>
 
-<!-- compact icon -->
-<g transform="translate(2 3)">
-  <circle cx="33" cy="33" r="30" fill="#ffffff" stroke="#16324a" stroke-width="3"/>
-  <path d="M33 3 A30 30 0 0 1 63 33 A30 30 0 0 1 33 63"
-        fill="none" stroke="#2f8b7a" stroke-width="3"/>
+<!-- emblem -->
+<g transform="translate(4 5)">
+  <circle cx="45" cy="45" r="41" fill="#ffffff" stroke="#12324d" stroke-width="3.2"/>
+  <path d="M45 4 A41 41 0 0 1 86 45 A41 41 0 0 1 45 86"
+        fill="none" stroke="#2f8f7b" stroke-width="3.2"/>
 
   <!-- buildings -->
-  <rect x="15" y="19" width="13" height="27" rx="2" fill="#16324a"/>
-  <rect x="31" y="11" width="15" height="35" rx="2" fill="#2f8b7a"/>
+  <rect x="23" y="28" width="17" height="34" rx="3" fill="#12324d"/>
+  <rect x="44" y="17" width="20" height="45" rx="3" fill="#2f8f7b"/>
   <g fill="#ffffff">
-    <rect x="19" y="24" width="4" height="4" rx=".7"/>
-    <rect x="19" y="32" width="4" height="4" rx=".7"/>
-    <rect x="35" y="17" width="4" height="4" rx=".7"/>
-    <rect x="35" y="25" width="4" height="4" rx=".7"/>
-    <rect x="35" y="33" width="4" height="4" rx=".7"/>
+    <rect x="28" y="34" width="5" height="5" rx="1"/>
+    <rect x="28" y="45" width="5" height="5" rx="1"/>
+    <rect x="49" y="25" width="5" height="5" rx="1"/>
+    <rect x="49" y="36" width="5" height="5" rx="1"/>
+    <rect x="49" y="47" width="5" height="5" rx="1"/>
   </g>
 
-  <!-- yacht, simplified for small sizes -->
-  <path d="M12 44 C19 40 28 38 39 38 H52 L57 42 L52 47 H24 C19 47 15 46 12 44Z"
-        fill="#16324a"/>
-  <path d="M26 38 L34 32 H43 L48 38Z"
-        fill="#ffffff" stroke="#16324a" stroke-width="2"/>
-  <path d="M11 51 C20 48 29 48 37 51 C45 54 52 54 59 50"
-        fill="none" stroke="#2f8b7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- yacht -->
+  <path d="M18 61 C27 56 38 53 50 53 H69 L76 58 L69 65 H33 C27 65 22 64 18 61Z"
+        fill="#12324d"/>
+  <path d="M38 53 L48 45 H60 L66 53Z"
+        fill="#ffffff" stroke="#12324d" stroke-width="2.3"/>
+  <path d="M17 72 C29 68 39 68 50 71 C60 75 69 75 80 70"
+        fill="none" stroke="#2f8f7b" stroke-width="3.5" stroke-linecap="round"/>
 </g>
 
 <!-- wordmark -->
-<text x="76" y="36" font-family="Arial, Helvetica, sans-serif"
-      font-size="29" font-weight="700" fill="#16324a">BlockWise</text>
+<text x="100" y="48"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="39" font-weight="700" fill="#12324d">BlockWise</text>
 
-<!-- Cyprus -->
-<line x1="78" y1="52" x2="101" y2="52" stroke="#16324a" stroke-width="1.7"/>
-<text x="109" y="57" font-family="Arial, Helvetica, sans-serif"
-      font-size="13" font-weight="700" letter-spacing="4.1" fill="#2f8b7a">CYPRUS</text>
-<line x1="211" y1="52" x2="234" y2="52" stroke="#16324a" stroke-width="1.7"/>
+<line x1="103" y1="68" x2="126" y2="68" stroke="#12324d" stroke-width="1.8"/>
+<text x="136" y="74"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="15" font-weight="700" letter-spacing="5.2" fill="#2f8f7b">CYPRUS</text>
+<line x1="259" y1="68" x2="282" y2="68" stroke="#12324d" stroke-width="1.8"/>
 </svg>
