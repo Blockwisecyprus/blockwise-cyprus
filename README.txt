@@ -1,10 +1,18 @@
-BlockWise Cyprus - No-Circle Website Logo V49
+BlockWise Cyprus - Heading Size Refinement V50
 
-This package uses the exact no-circle logo you approved, cropped tightly and with the white background removed.
+This version reduces heading sizes across the entire website.
 
-Upload BOTH SVG files to the ROOT of your GitHub Pages repository and overwrite the existing files:
-1. logo.svg
-2. logo-v47.svg
+Main changes:
+- Main page headings are smaller on desktop
+- Section headings are smaller
+- Sub-headings such as Regular Property Inspections are smaller
+- Mobile headings are reduced further
+- Service-card headings are slightly smaller
+- Line spacing has been adjusted for a cleaner premium look
+- Mobile-menu fixes remain intact
+- Existing text and translations are unchanged
 
-Both filenames are included because different recent website versions may reference either one.
-The PNG master is included only as a backup/reference.
+Upload ALL files in this ZIP to the ROOT of the GitHub Pages repository
+and overwrite the existing HTML pages.
+
+The site now loads v50.css?v=50, so browsers should not reuse the old heading styles.
