@@ -1,16 +1,13 @@
-BlockWise Cyprus - Mobile Menu Fix V37
+BlockWise Cyprus - Heading Size Refinement V38
 
-I found the exact problem: v27.css contained `.main-nav{display:flex!important;}`.
-That rule overrode the normal mobile rule that hides the dropdown until the hamburger is pressed.
+This package keeps the V37 mobile-menu fix and makes headings slightly smaller.
 
-This package fixes the behaviour so that on phones/tablets:
-- the menu is CLOSED by default
-- tapping the hamburger OPENS it
-- tapping the X closes it
-- tapping a menu item closes it
-- the menu keeps the correct order:
-  Home, About, Our Approach, Property Care, Building Admin, Yacht Care, Contact
-- the menu can scroll vertically on short screens
+Changes:
+- Main H1 headings reduced slightly on desktop and mobile
+- H2 section headings reduced slightly
+- Internal page hero headings reduced slightly
+- Mobile content/contact headings refined for better balance
+- No text, images, menu order or translations changed
 
 Upload all files in this ZIP to the ROOT of the GitHub Pages repository and overwrite the existing files.
-The HTML pages now load v27.css?v=37 and v27.js?v=37 so mobile browsers do not keep the old cached version.
+The pages now load v27.css?v=38 so browsers receive the new heading sizes immediately.
