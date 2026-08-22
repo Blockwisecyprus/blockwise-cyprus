@@ -1,7 +1,7 @@
-BlockWise Cyprus About Photo Replacement V39
+BlockWise Cyprus - Our Approach Photo Replacement V42
 
 Upload BOTH files to the ROOT of your GitHub Pages repository:
-1. about.html
-2. about-hero.png
+1. approach.html
+2. approach-hero.png
 
-Overwrite about.html. The new About image is stored locally on your website and replaces the external Wix image.
+Overwrite approach.html. The new image is hosted locally and replaces the old external building photo.
