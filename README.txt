@@ -1,10 +1,10 @@
-BlockWise Cyprus - Definitive Clear Logo V48
+BlockWise Cyprus - No-Circle Website Logo V49
 
-Upload BOTH files to the ROOT of the GitHub Pages repository and overwrite the existing files:
+This package uses the exact no-circle logo you approved, cropped tightly and with the white background removed.
+
+Upload BOTH SVG files to the ROOT of your GitHub Pages repository and overwrite the existing files:
 1. logo.svg
 2. logo-v47.svg
 
-Why both? Some of the recent website pages may still request logo.svg, while the V47 package requests logo-v47.svg.
-Replacing both means the new logo appears whichever version a page currently uses.
-
-This V48 logo is intentionally taller and clearer than the previous horizontal logo, so it remains readable at the website's existing header size.
+Both filenames are included because different recent website versions may reference either one.
+The PNG master is included only as a backup/reference.
