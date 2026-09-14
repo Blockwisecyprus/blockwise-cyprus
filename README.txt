@@ -1,18 +1,7 @@
-BlockWise Cyprus - Heading Size Refinement V50
+BlockWise Cyprus - Instagram Exact Share Link V52
 
-This version reduces heading sizes across the entire website.
+This version uses the exact profile link copied directly from Instagram:
+https://www.instagram.com/blockwisecyprus?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==
 
-Main changes:
-- Main page headings are smaller on desktop
-- Section headings are smaller
-- Sub-headings such as Regular Property Inspections are smaller
-- Mobile headings are reduced further
-- Service-card headings are slightly smaller
-- Line spacing has been adjusted for a cleaner premium look
-- Mobile-menu fixes remain intact
-- Existing text and translations are unchanged
-
-Upload ALL files in this ZIP to the ROOT of the GitHub Pages repository
-and overwrite the existing HTML pages.
-
-The site now loads v50.css?v=50, so browsers should not reuse the old heading styles.
+Upload all files in this ZIP to the ROOT of the GitHub repository and overwrite the existing files.
+This is based on the current V51 website package, so no other intended website changes are removed.
