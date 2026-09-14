@@ -1,0 +1,16 @@
+Instagram updated site-wide
+Old: https://www.instagram.com/blockwisecyprus2026/
+New: https://www.instagram.com/blockwisecyprus/
+
+Files changed:
+terms.html
+building-administration.html
+privacy.html
+property-care.html
+yacht-care.html
+about.html
+approach.html
+contact.html
+index.html
+cookies.html
+thanks.html

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520" role="img" aria-labelledby="title desc">
+<title id="title">Property care illustration</title><desc id="desc">A modern villa with keyholding and property care symbols.</desc>
+<rect width="700" height="520" rx="28" fill="#eef5f3"/>
+<circle cx="572" cy="95" r="48" fill="#fff1c7"/>
+<path d="M70 410 Q210 355 345 403 T680 398 V520 H70Z" fill="#cfe1d7"/>
+<g transform="translate(110 145)">
+ <path d="M0 125 L205 20 L410 125 V330 H0Z" fill="#ffffff"/>
+ <path d="M-14 126 L205 5 L424 126 L404 150 L205 42 L7 150Z" fill="#16324a"/>
+ <rect x="65" y="158" width="110" height="94" rx="6" fill="#a9ced2"/>
+ <rect x="235" y="158" width="110" height="94" rx="6" fill="#a9ced2"/>
+ <rect x="172" y="235" width="68" height="95" rx="6" fill="#2f8b7a"/>
+</g>
+<g transform="translate(500 270)">
+ <circle cx="0" cy="0" r="58" fill="#ffffff" stroke="#2f8b7a" stroke-width="7"/>
+ <circle cx="-15" cy="-4" r="17" fill="none" stroke="#16324a" stroke-width="8"/>
+ <path d="M2 -4 H58 M36 -4 V16 M50 -4 V9" stroke="#16324a" stroke-width="8" stroke-linecap="round"/>
+</g>
+</svg>
