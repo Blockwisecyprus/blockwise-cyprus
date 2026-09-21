@@ -1,7 +1,14 @@
-BlockWise Cyprus - Instagram Exact Share Link V52
+BlockWise Cyprus - LinkedIn Website Update V53
 
-This version uses the exact profile link copied directly from Instagram:
-https://www.instagram.com/blockwisecyprus?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==
+LinkedIn Page added:
+https://www.linkedin.com/company/blockwise-cyprus/
 
-Upload all files in this ZIP to the ROOT of the GitHub repository and overwrite the existing files.
-This is based on the current V51 website package, so no other intended website changes are removed.
+The update adds LinkedIn:
+- to the top social icons on all website pages
+- to the footer social links on all website pages
+- to the Contact page social/contact list
+
+This package is based on the current V52 website, so the working Instagram share link is preserved.
+
+Upload ALL files in this ZIP to the ROOT of your GitHub Pages repository
+and overwrite the matching HTML files.
